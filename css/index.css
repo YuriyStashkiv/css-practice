@@ -65,7 +65,7 @@ header .menu-items a:hover {
 }
 
 header .header-banner {
-    background-image: url(../img/baby-yoda.jpg);
+    background-image: url(../img/baby-yoda.svg);
     background-position: center;
     background-size: cover;
     min-height: 450px;
